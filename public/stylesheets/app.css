@@ -1,0 +1,35 @@
+i.icon{
+    font-size: 2em;
+}
+
+
+a.violet{
+    text-align: center;
+}
+
+.container.main{
+    margin-top: 7em;
+}
+
+#delete{
+    display: inline;
+}
+
+.show-margin{
+    margin-top:2em;
+}
+
+.show-date{
+    text-align: right;
+}   
+   
+.show-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+span {
+    display: inline-flex; 
+    align-items: center;
+    color: teal;
+}
